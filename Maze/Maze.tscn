@@ -47,6 +47,7 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.6, 0 )
 current = true
 
 [node name="Menu" type="Control" parent="."]
+pause_mode = 2
 visible = false
 margin_right = 40.0
 margin_bottom = 40.0
